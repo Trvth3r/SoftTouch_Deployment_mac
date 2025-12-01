@@ -8,7 +8,7 @@
 # Author: Ish Morgan
 # ----------------------------------------
 
-USER="ROGadmin"
+USER="admin"
 PLIST="/var/db/dslocal/nodes/Default/groups/com.apple.access_ssh.plist"
 ADMIN_GUID="ABCDEFAB-CDEF-ABCD-EFAB-CDEF00000050"   # universal admin group GUID
 
